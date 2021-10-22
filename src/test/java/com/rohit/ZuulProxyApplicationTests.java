@@ -9,5 +9,9 @@ class ZuulProxyApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void testProxyContext() {
+	}
 
 }
