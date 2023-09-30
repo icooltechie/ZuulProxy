@@ -14,4 +14,8 @@ class ZuulProxyTest {
 	void testProxyContext() {
 	}
 
+	@Test
+	void testContexts() {
+	}
+
 }
